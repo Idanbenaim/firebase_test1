@@ -1,0 +1,104 @@
+/* index.css */
+
+body {
+  font-family: "Times New Roman", Georgia, Serif;
+  margin: 0;
+}
+
+.custom-header {
+  position: relative;
+  text-align: center; /* Center the content within the header */
+}
+
+.custom-header img {
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.custom-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.custom-heading {
+  font-size: 2.5em;
+  color: white;
+}
+
+.custom-button {
+  display: block;
+  margin: 15px auto;
+  padding: 10px 50px;
+  background-color: white;
+  color: #508264;
+  border: 2px solid #508264;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+.custom-button:hover {
+  background-color: #508264;
+  color: white;
+}
+
+.custom-subheading {
+  font-size: 2em;
+  color: white;
+}
+
+.price {
+  font-size: 1.2em; 
+}
+
+
+
+/* body {
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+
+.w3-display-middle h1 {
+  font-size: 2.5em; 
+  text-align: center;
+  white-space: nowrap; 
+  overflow: hidden; 
+}
+
+@media screen and (min-width: 768px) {
+  .w3-display-middle h1 {
+    white-space: normal; 
+  }
+}
+
+.custom-heading {
+  font-size: 2.5em; 
+  color: white;
+}
+
+.custom-button {
+  display: block;
+  margin: 15px auto; 
+  width: 250px; 
+}
+
+.custom-overlay {
+  background-color: rgba(0, 0, 0, 0.748); 
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+@media screen and (min-width: 768px) {
+  .custom-button {
+    width: 300px; 
+  }
+} */
+
