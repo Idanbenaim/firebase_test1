@@ -1,12 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBiPqFUz91eYxiNIC4uWuN54GF_FrceFcg",
-  authDomain: "landing-page-w-contactus-admin.firebaseapp.com",
-  projectId: "landing-page-w-contactus-admin",
-  storageBucket: "landing-page-w-contactus-admin.appspot.com",
-  messagingSenderId: "541256368930",
-  appId: "1:541256368930:web:8251d843f359439fc71b7b",
-  databaseURL:
-    "https://landing-page-w-contactus-admin-default-rtdb.europe-west1.firebasedatabase.app",
+  apiKey: "AIzaSyC2VB47ST_VnH9OgDEFyi5W-ejeIn0cr5Y",
+  authDomain: "landing-page-test-283d8.firebaseapp.com",
+  projectId: "landing-page-test-283d8",
+  storageBucket: "landing-page-test-283d8.appspot.com",
+  messagingSenderId: "501118264119",
+  appId: "1:501118264119:web:f2980a3e4d6dae917b30b2",
 };
 
 
